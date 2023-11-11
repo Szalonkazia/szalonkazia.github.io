@@ -1,0 +1,9 @@
+---
+layout: "root"
+---
+{{ content }}
+<div class="images-container">
+{% for adopt in site.data.adopty %}
+{% include described_image.html url=adopt.url desc=adopt.price %}
+{% endfor %}
+</div>

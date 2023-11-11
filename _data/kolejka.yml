@@ -1,0 +1,8 @@
+- name: "Lis"
+  status: "Zapłacone"
+- name: "Królik"
+  status: "Zapłacone"
+- name: "Jeżozwierz"
+  status: "Rezerwacja"
+- name: "Paździoch"
+  status: "Niezapłacone"

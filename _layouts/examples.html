@@ -1,0 +1,9 @@
+---
+layout: "root"
+---
+{{ content }}
+<div class="images-container">
+{% for przyklad in site.data.przyklady %}
+{% include nodesc_image.html url=przyklad %}
+{% endfor %}
+</div>
