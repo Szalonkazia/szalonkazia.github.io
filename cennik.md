@@ -6,4 +6,6 @@ layout: frontpage
 pagetype: "frontpage"
 title: "Cennik"
 ---
+Metody płatności: 
+<br>- blik, przelew, paypal, revolut
 <img class="width-image" src="/assets/img/cennik.jpg">

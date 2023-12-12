@@ -2,8 +2,9 @@
 layout: "root"
 ---
 {{ content }}
-<div class="images-container">
-{% for przyklad in site.data.przyklady %}
-{% include nodesc_image.html url=przyklad %}
-{% endfor %}
-</div>
+{% include dynamic_various_5_6.html one="/assets/img/przyklady/5_6/art1.jpg" two="/assets/img/przyklady/1_1/showcase1.jpg" three="/assets/img/przyklady/1_1/sticker1.jpg" four="/assets/img/przyklady/1_1/sticker2.jpg"%}
+{% include dynamic_various_5_6.html one="/assets/img/przyklady/5_6/art2.jpg" two="/assets/img/przyklady/1_1/showcase2.jpg" three="/assets/img/przyklady/1_1/sticker3.jpg" four="/assets/img/przyklady/1_1/sticker4.jpg"%}
+{% include dynamic_wide_sticker.html one="/assets/img/przyklady/4_3/art1.jpg" two="/assets/img/przyklady/1_1/sticker5.jpg" three="/assets/img/przyklady/1_1/sticker6.jpg"%}
+{% include dynamic_wide_sticker.html one="/assets/img/przyklady/4_3/art2.jpg" two="/assets/img/przyklady/1_1/sticker7.jpg" three="/assets/img/przyklady/1_1/sticker8.jpg"%}
+{% include dynamic_square_big_small.html one="/assets/img/przyklady/1_1/showcase3.jpg" two="/assets/img/przyklady/1_1/sticker13.jpg" three="/assets/img/przyklady/1_1/sticker12.jpg"%}
+{% include dynamic_square_four.html one="/assets/img/przyklady/1_1/sticker9.jpg" two="/assets/img/przyklady/1_1/sticker10.jpg" three="/assets/img/przyklady/1_1/sticker11.jpg" four=""%}

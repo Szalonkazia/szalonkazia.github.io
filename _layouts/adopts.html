@@ -2,8 +2,5 @@
 layout: "root"
 ---
 {{ content }}
-<div class="images-container">
-{% for adopt in site.data.adopty %}
-{% include described_image.html url=adopt.url desc=adopt.price %}
-{% endfor %}
-</div>
+{% include dynamic_various_5_6.html one="/assets/img/adopty/5_6/art1.jpg" two="/assets/img/adopty/1_1/art1.jpg"%}
+{% include dynamic_square_two.html one="/assets/img/adopty/1_1/art2.jpg" two="/assets/img/adopty/1_1/art3.jpg"%}
