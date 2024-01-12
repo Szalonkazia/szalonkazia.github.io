@@ -5,6 +5,5 @@
 layout: text_image_page
 pagetype: "frontpage"
 title: "Kolejka"
-image: "/assets/img/cat.png"
 ---
 {% include kolejka.html %}

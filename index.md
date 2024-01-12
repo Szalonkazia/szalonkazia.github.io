@@ -5,7 +5,7 @@
 layout: text_image_page
 pagetype: "frontpage"
 title: "Główna"
-image: "/assets/img/cat.png"
+image: "/assets/img/front.png"
 ---
 Witamy na stronie SilenceDreams!
 <br>Prowadzonej przez Szalonkaize oraz Azaraka *wiwaty*

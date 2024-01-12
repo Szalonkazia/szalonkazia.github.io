@@ -4,24 +4,28 @@
     color: #000000;
     font-size: 25;
     font-weight: bold;
+    text-shadow: 1px 1px #777;
 }
 
 h1 {
     font-weight: bold;
     color: #000000;
     font-size: 36px;
+    text-shadow: 1px 1px #777;
   }
   
   h2 {
     font-weight: bold;
     color: #000000;
     font-size: 32px;
+    text-shadow: 1px 1px #777;
   }
 
 
 
 .bright-text {
     color: #000000;
+    text-shadow: 1px 1px #777;
   }
 
 html, body {
@@ -83,6 +87,7 @@ body{
 }
 .social-link-text{
     font-size: 40;
+    text-shadow: 1px 1px #777;
 }
 
 .width-image
@@ -218,16 +223,17 @@ body{
     width: 100%;
     height: fit-content;
     display: flex;
+    background-position-x: right;
+    background-position-y: top;
+    background-size: 55%;
+    background-repeat: no-repeat;
 }
 .text-image-text
 {
     width:66%;
+    z-index:1;
 }
-.text-image-image
-{
-    width:34%;
-    height: fit-content;
-}
+
 
 .dynamic-image-block
 {
