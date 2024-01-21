@@ -6,3 +6,5 @@
   status: "opłacone"
 - name: "Solewap"
   status: "nie opłacone"
+- name: "Kalsiver"
+  status: "nie opłacone"
