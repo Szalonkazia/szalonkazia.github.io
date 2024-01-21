@@ -1,5 +1,3 @@
-- name: "Whytea i Lismołek"
-  status: "opłacone"
 - name: "Azarak"
   status: "opłacone"
 - name: "Wilkot"
@@ -8,3 +6,5 @@
   status: "nie opłacone"
 - name: "Kalsiver"
   status: "nie opłacone"
+- name: "Whytea i Lismołek"
+  status: "opłacone"
