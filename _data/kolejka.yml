@@ -1,7 +1,5 @@
 - name: "Azarak"
   status: "opłacone"
-- name: "Wilkot"
-  status: "opłacone"
 - name: "Solewap"
   status: "nie opłacone"
 - name: "Kalsiver"
@@ -9,4 +7,6 @@
 - name: "Whytea i Lismołek"
   status: "opłacone"
 - name: "Nekro"
+  status: "nie opłacone"
+- name: Lena Wawrzkiewicz
   status: "nie opłacone"
