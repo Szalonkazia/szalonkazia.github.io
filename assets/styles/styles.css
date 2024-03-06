@@ -43,7 +43,7 @@ html, body {
 
 html
 {
-    background-image: linear-gradient(rgb(0, 0, 85), rgb(46, 46, 126));
+    background-image: linear-gradient(rgb(64, 0, 191), rgb(191, 0, 64));
     background-attachment: fixed;
     min-height: 100%;
     min-width: 100%;
